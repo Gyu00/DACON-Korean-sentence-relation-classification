@@ -1,0 +1,16 @@
+https://moondol-ai.tistory.com/241
+
+https://github.com/Beomi/KcBERT
+
+https://github.com/SKTBrain/KoBERT
+
+일단 KoBERT finetuning을 해보구
+
+
+
+NLI 특화
+
+https://dacon.io/competitions/official/235875/codeshare/4424?page=1&dtype=recent
+
+https://misconstructed.tistory.com/28
+
